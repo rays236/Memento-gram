@@ -1,4 +1,4 @@
-package com.rays.memento_gram
+package com.example.memento_gram
 
 import org.junit.Test
 
